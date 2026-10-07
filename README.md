@@ -1,6 +1,5 @@
 - **Hello!**
-- I'm a Fullstack developer and a UX/UI Designer.
-- I Design and build products that positively impact society.
-- Interested in working together? Ask me anything!
-
+- I'm a Product Engineer.
+- My main focus os to design and build products that positively impact society.
+- Interested in working together?
 
